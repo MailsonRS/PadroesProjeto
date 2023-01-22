@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author mailson
- *
- */
-module PadroesProjeto {
-}
