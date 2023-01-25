@@ -1,5 +1,5 @@
 package criacionais.builder;
-
+//Classe construtora concreta
 public class BuilderPizzaMarguerita extends PizzaBuilder {
 	@Override
 	public void buildCobertura() {
